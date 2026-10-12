@@ -1,0 +1,180 @@
+PassengerId,Sex,Pclass,Age,Cabin,Survived,predit,score,error,EdatConeguda,GrupEdat
+566,male,3,24.0,,0,0,0.10707611832611832,False,Sí,Adult (16 o més)
+161,male,3,44.0,,0,0,0.1127229437229437,False,Sí,Adult (16 o més)
+554,male,3,22.0,,1,0,0.15315187590187587,True,Sí,Adult (16 o més)
+861,male,3,41.0,,0,0,0.07414682539682539,False,Sí,Adult (16 o més)
+242,female,3,,,1,1,0.6934285714285714,False,No,Desconeguda
+560,female,3,36.0,,1,0,0.364660533910534,True,Sí,Adult (16 o més)
+388,female,2,36.0,,1,1,0.9007954822954823,False,Sí,Adult (16 o més)
+537,male,1,45.0,B38,0,1,0.6857741702741705,True,Sí,Adult (16 o més)
+699,male,1,49.0,C68,0,1,0.5149325396825396,True,Sí,Adult (16 o més)
+100,male,2,34.0,,0,0,0.07738095238095238,False,Sí,Adult (16 o més)
+127,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+334,male,3,16.0,,0,0,0.14251587301587304,False,Sí,Adult (16 o més)
+217,female,3,27.0,,1,0,0.3978249511925982,True,Sí,Adult (16 o més)
+818,male,2,31.0,,0,0,0.16432323232323232,False,Sí,Adult (16 o més)
+28,male,1,19.0,C23 C25 C27,0,0,0.3448329725829726,False,Sí,Adult (16 o més)
+704,male,3,25.0,,0,0,0.15989080364080363,False,Sí,Adult (16 o més)
+486,female,3,,,0,0,0.02496825396825397,False,No,Desconeguda
+512,male,3,,,0,0,0.0,False,No,Desconeguda
+434,male,3,17.0,,0,0,0.08059523809523811,False,Sí,Adult (16 o més)
+577,female,2,34.0,,1,1,0.93441452991453,False,Sí,Adult (16 o més)
+88,male,3,,,0,0,0.0,False,No,Desconeguda
+581,female,2,25.0,,1,1,0.9336031746031747,False,Sí,Adult (16 o més)
+158,male,3,30.0,,0,0,0.17138888888888887,False,Sí,Adult (16 o més)
+280,female,3,35.0,,1,1,0.5220573593073592,False,Sí,Adult (16 o més)
+423,male,3,29.0,,0,0,0.0978284632034632,False,Sí,Adult (16 o més)
+370,female,1,24.0,B35,1,1,0.9952380952380951,False,Sí,Adult (16 o més)
+777,male,3,,F38,0,0,0.26492832167832164,False,No,Desconeguda
+713,male,1,48.0,C126,1,0,0.4227698412698413,True,Sí,Adult (16 o més)
+456,male,3,29.0,,1,0,0.12693560606060608,True,Sí,Adult (16 o més)
+496,male,3,,,0,0,0.17120138195138196,False,No,Desconeguda
+759,male,3,34.0,,0,0,0.06457395382395383,False,Sí,Adult (16 o més)
+731,female,1,29.0,B5,1,1,0.9717976190476191,False,Sí,Adult (16 o més)
+66,male,3,,,1,1,0.5596666666666666,False,No,Desconeguda
+76,male,3,25.0,F G73,0,0,0.22313095238095243,False,Sí,Adult (16 o més)
+490,male,3,9.0,,1,0,0.45848412698412694,True,Sí,Infant (<16)
+870,male,3,4.0,,1,1,0.6092380952380954,False,Sí,Infant (<16)
+166,male,3,9.0,,1,0,0.4118888888888889,True,Sí,Infant (<16)
+72,female,3,16.0,,0,0,0.18278968253968253,False,Sí,Adult (16 o més)
+429,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+418,female,2,18.0,,1,1,0.9656309523809524,False,Sí,Adult (16 o més)
+746,male,1,70.0,B22,0,1,0.7202900432900432,True,Sí,Adult (16 o més)
+298,female,1,2.0,C22 C26,0,1,0.8707777777777775,True,Sí,Infant (<16)
+464,male,2,48.0,,0,0,0.08582545232545233,False,Sí,Adult (16 o més)
+85,female,2,17.0,,1,1,0.9511785714285714,False,Sí,Adult (16 o més)
+212,female,2,35.0,,1,1,0.9200357142857143,False,Sí,Adult (16 o més)
+116,male,3,21.0,,0,0,0.11197366522366524,False,Sí,Adult (16 o més)
+869,male,3,,,0,0,0.07936507936507937,False,No,Desconeguda
+41,female,3,40.0,,0,0,0.30425685425685417,False,Sí,Adult (16 o més)
+645,female,3,0.75,,1,1,0.8712579365079365,False,Sí,Infant (<16)
+323,female,2,30.0,,1,1,0.9779978632478632,False,Sí,Adult (16 o més)
+760,female,1,33.0,B77,1,1,0.953547619047619,False,Sí,Adult (16 o més)
+565,female,3,,,0,0,0.25338772175536883,False,No,Desconeguda
+503,female,3,,,0,1,0.887339711758829,True,No,Desconeguda
+18,male,2,,,1,0,0.03297619047619047,True,No,Desconeguda
+680,male,1,36.0,B51 B53 B55,1,0,0.3007142857142857,True,Sí,Adult (16 o més)
+402,male,3,26.0,,0,0,0.0517420634920635,False,Sí,Adult (16 o més)
+640,male,3,,,0,0,0.033,False,No,Desconeguda
+702,male,1,35.0,E24,1,1,0.7963944444444442,False,Sí,Adult (16 o més)
+107,female,3,21.0,,1,1,0.7386799295475764,False,Sí,Adult (16 o més)
+448,male,1,34.0,,1,1,0.510381623931624,False,Sí,Adult (16 o més)
+579,female,3,,,0,0,0.42816269841269844,False,No,Desconeguda
+473,female,2,33.0,,1,1,0.9279087301587302,False,Sí,Adult (16 o més)
+765,male,3,16.0,,0,0,0.19480158730158725,False,Sí,Adult (16 o més)
+398,male,2,46.0,,0,0,0.12577272727272726,False,Sí,Adult (16 o més)
+691,male,1,31.0,B20,1,1,0.6811626984126982,False,Sí,Adult (16 o més)
+39,female,3,18.0,,0,0,0.3529087301587302,False,Sí,Adult (16 o més)
+376,female,1,,,1,1,0.9926666666666668,False,No,Desconeguda
+753,male,3,33.0,,0,0,0.1499390331890332,False,Sí,Adult (16 o més)
+626,male,1,61.0,D50,0,0,0.11643686868686869,False,Sí,Adult (16 o més)
+865,male,2,24.0,,0,0,0.0,False,Sí,Adult (16 o més)
+276,female,1,63.0,D7,1,1,0.9427142857142857,False,Sí,Adult (16 o més)
+774,male,3,,,0,0,0.07557450882450882,False,No,Desconeguda
+594,female,3,,,0,1,0.8280964688905864,True,No,Desconeguda
+505,female,1,16.0,B79,1,1,1.0,False,Sí,Adult (16 o més)
+240,male,2,33.0,,0,0,0.0614549617049617,False,Sí,Adult (16 o més)
+154,male,3,40.5,,0,0,0.01856746031746032,False,Sí,Adult (16 o més)
+615,male,3,35.0,,0,0,0.06057395382395383,False,Sí,Adult (16 o més)
+443,male,3,25.0,,0,0,0.35926936659831377,False,Sí,Adult (16 o més)
+181,female,3,,,0,0,0.16053174603174603,False,No,Desconeguda
+635,female,3,9.0,,0,0,0.031166666666666672,False,Sí,Infant (<16)
+387,male,3,1.0,,0,0,0.3896865079365079,False,Sí,Infant (<16)
+245,male,3,30.0,,0,0,0.06710461760461761,False,Sí,Adult (16 o més)
+750,male,3,31.0,,0,0,0.21375432900432897,False,Sí,Adult (16 o més)
+163,male,3,26.0,,0,0,0.2922300448089921,False,Sí,Adult (16 o més)
+502,female,3,21.0,,0,1,0.8105703740703738,True,Sí,Adult (16 o més)
+93,male,1,46.0,E31,0,1,0.607734126984127,True,Sí,Adult (16 o més)
+715,male,2,52.0,,0,0,0.062301642801642805,False,Sí,Adult (16 o més)
+432,female,3,,,1,0,0.4387777777777779,True,No,Desconeguda
+453,male,1,30.0,C111,0,1,0.5682584415584416,True,Sí,Adult (16 o més)
+854,female,1,16.0,D28,1,1,0.9885714285714287,False,Sí,Adult (16 o més)
+56,male,1,,C52,1,0,0.22337337662337664,True,No,Desconeguda
+352,male,1,,C128,0,0,0.23587337662337662,False,No,Desconeguda
+571,male,2,62.0,,1,0,0.016717171717171717,True,Sí,Adult (16 o més)
+30,male,3,,,0,0,0.0015384615384615385,False,No,Desconeguda
+63,male,1,45.0,C83,0,0,0.46746031746031735,False,Sí,Adult (16 o més)
+597,female,2,,,1,1,0.9860833333333335,False,No,Desconeguda
+459,female,2,50.0,,1,1,0.6561294816294816,False,Sí,Adult (16 o més)
+460,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+5,male,3,35.0,,0,0,0.06057395382395383,False,Sí,Adult (16 o més)
+272,male,3,25.0,,1,0,0.032507936507936507,True,Sí,Adult (16 o més)
+253,male,1,62.0,C87,0,0,0.3530638528138528,False,Sí,Adult (16 o més)
+342,female,1,24.0,C23 C25 C27,1,1,0.7583373015873015,False,Sí,Adult (16 o més)
+83,female,3,,,1,1,0.8858361875053048,False,No,Desconeguda
+10,female,2,14.0,,1,1,0.9642341269841269,False,Sí,Infant (<16)
+811,male,3,26.0,,0,0,0.037533730158730155,False,Sí,Adult (16 o més)
+24,male,1,28.0,A6,1,0,0.2175097402597402,True,Sí,Adult (16 o més)
+842,male,2,16.0,,0,0,0.13419083694083697,False,Sí,Adult (16 o més)
+411,male,3,,,0,0,0.0015384615384615385,False,No,Desconeguda
+567,male,3,19.0,,0,0,0.0897334054834055,False,Sí,Adult (16 o més)
+246,male,1,44.0,C78,0,1,0.8113809523809522,True,Sí,Adult (16 o més)
+561,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+325,male,3,,,0,0,0.11206673881673883,False,No,Desconeguda
+147,male,3,27.0,,1,0,0.221026581605529,True,Sí,Adult (16 o més)
+660,male,1,58.0,D48,0,0,0.12984090909090912,False,Sí,Adult (16 o més)
+572,female,1,53.0,C101,1,1,0.978547619047619,False,Sí,Adult (16 o més)
+197,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+17,male,3,2.0,,0,0,0.2699722222222222,False,Sí,Infant (<16)
+139,male,3,16.0,,0,0,0.12367857142857144,False,Sí,Adult (16 o més)
+744,male,3,24.0,,0,0,0.046638888888888896,False,Sí,Adult (16 o més)
+556,male,1,62.0,,0,0,0.2330665445665444,False,Sí,Adult (16 o més)
+106,male,3,28.0,,0,0,0.006053571428571429,False,Sí,Adult (16 o més)
+727,female,2,30.0,,1,1,0.8065465367965367,False,Sí,Adult (16 o més)
+604,male,3,44.0,,0,0,0.3016378343878344,False,Sí,Adult (16 o més)
+542,female,3,9.0,,0,0,0.13045238095238093,False,Sí,Infant (<16)
+776,male,3,18.0,,0,0,0.1534206349206349,False,Sí,Adult (16 o més)
+825,male,3,2.0,,0,0,0.28930555555555554,False,Sí,Infant (<16)
+337,male,1,29.0,C2,0,1,0.5930793650793649,True,Sí,Adult (16 o més)
+800,female,3,30.0,,0,0,0.45528174603174615,False,Sí,Adult (16 o més)
+677,male,3,24.5,,0,0,0.01753968253968254,False,Sí,Adult (16 o més)
+608,male,1,27.0,,1,0,0.24079487734487726,True,Sí,Adult (16 o més)
+827,male,3,,,0,1,0.749368881118881,True,No,Desconeguda
+757,male,3,28.0,,0,0,0.19708213716108447,False,Sí,Adult (16 o més)
+187,female,3,,,1,1,0.663488095238095,False,No,Desconeguda
+412,male,3,,,0,0,0.015916167166167165,False,No,Desconeguda
+550,male,2,8.0,,1,1,0.5339880952380952,False,Sí,Infant (<16)
+442,male,3,20.0,,0,0,0.07267460317460318,False,Sí,Adult (16 o més)
+436,female,1,14.0,B96 B98,1,1,0.9267777777777778,False,Sí,Infant (<16)
+791,male,3,,,0,0,0.2627609335109334,False,No,Desconeguda
+199,female,3,,,1,1,0.8871844781035954,False,No,Desconeguda
+445,male,3,,,1,0,0.0025,True,No,Desconeguda
+672,male,1,31.0,B71,0,0,0.3724722222222223,False,Sí,Adult (16 o més)
+297,male,3,23.5,,0,0,0.2026132756132756,False,Sí,Adult (16 o més)
+803,male,1,11.0,B96 B98,1,1,0.8197539682539682,False,Sí,Infant (<16)
+138,male,1,37.0,C123,0,1,0.6874523809523808,True,Sí,Adult (16 o més)
+533,male,3,17.0,,0,0,0.23066486291486285,False,Sí,Adult (16 o més)
+588,male,1,60.0,B41,1,0,0.20419480519480518,True,Sí,Adult (16 o més)
+879,male,3,,,0,0,0.0015384615384615385,False,No,Desconeguda
+729,male,2,25.0,,0,0,0.07933730158730161,False,Sí,Adult (16 o més)
+390,female,2,17.0,,1,1,0.9738571428571429,False,Sí,Adult (16 o més)
+428,female,2,19.0,,1,1,0.9809047619047618,False,Sí,Adult (16 o més)
+805,male,3,27.0,,1,0,0.02726190476190476,True,Sí,Adult (16 o més)
+732,male,3,11.0,,0,0,0.3385887445887446,False,Sí,Infant (<16)
+89,female,1,23.0,C23 C25 C27,1,1,0.7717896825396824,False,Sí,Adult (16 o més)
+40,female,3,14.0,,1,1,0.5218124098124098,False,Sí,Infant (<16)
+493,male,1,55.0,C30,0,0,0.30665440115440107,False,Sí,Adult (16 o més)
+824,female,3,27.0,E121,1,1,0.5907896825396824,False,Sí,Adult (16 o més)
+887,male,2,27.0,,0,0,0.0641948051948052,False,Sí,Adult (16 o més)
+354,male,3,25.0,,0,0,0.09324206349206349,False,Sí,Adult (16 o més)
+686,male,2,25.0,,0,0,0.12513275613275612,False,Sí,Adult (16 o més)
+12,female,1,58.0,C103,1,1,0.7210317460317462,False,Sí,Adult (16 o més)
+485,male,1,25.0,B49,1,1,0.5314365079365078,False,Sí,Adult (16 o més)
+367,female,1,60.0,D37,1,1,0.9443809523809523,False,Sí,Adult (16 o més)
+301,female,3,,,1,1,0.8871844781035954,False,No,Desconeguda
+880,female,1,56.0,C50,1,1,0.9697142857142856,False,Sí,Adult (16 o més)
+531,female,2,2.0,,1,1,0.9391825396825396,False,Sí,Infant (<16)
+294,female,3,24.0,,0,0,0.237102728970376,False,Sí,Adult (16 o més)
+815,male,3,30.5,,0,0,0.17138888888888887,False,Sí,Adult (16 o més)
+516,male,1,47.0,D46,0,0,0.11005555555555555,False,Sí,Adult (16 o més)
+200,female,2,24.0,,0,1,0.9531706349206349,True,Sí,Adult (16 o més)
+143,female,3,24.0,,1,0,0.390984126984127,True,Sí,Adult (16 o més)
+350,male,3,42.0,,0,0,0.23235212010212006,False,Sí,Adult (16 o més)
+355,male,3,,,0,0,0.07557450882450882,False,No,Desconeguda
+296,male,1,,,0,0,0.22831544011544,False,No,Desconeguda
+144,male,3,19.0,,0,0,0.08152056277056274,False,Sí,Adult (16 o més)
+881,female,2,25.0,,1,1,0.8586428571428573,False,Sí,Adult (16 o més)
+92,male,3,20.0,,0,0,0.08817063492063495,False,Sí,Adult (16 o més)
+884,male,2,28.0,,0,0,0.017948773448773447,False,Sí,Adult (16 o més)
+474,female,2,23.0,D,1,1,0.9299761904761904,False,Sí,Adult (16 o més)
+638,male,2,31.0,,0,0,0.2514920634920635,False,Sí,Adult (16 o més)

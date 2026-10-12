@@ -1,0 +1,34 @@
+{
+  "model": "Random Forest",
+  "representacio": "ampliada",
+  "parametres": "{'max_depth': None, 'max_features': 0.8, 'min_samples_leaf': 3, 'n_estimators': 100}",
+  "n_desenvolupament": 712,
+  "n_test": 179,
+  "configuracions_graella": 184,
+  "ajustos_graella": 920,
+  "cv_f1_seleccio": 0.771066008585889,
+  "cv_accuracy_seleccio": 0.8314980793854033,
+  "test": {
+    "accuracy": 0.8100558659217877,
+    "balanced_accuracy": 0.7914361001317523,
+    "precision": 0.7777777777777778,
+    "recall": 0.7101449275362319,
+    "f1": 0.7424242424242424,
+    "roc_auc": 0.8432147562582346,
+    "average_precision": 0.8180744080310178
+  },
+  "confusio": {
+    "TN": 96,
+    "FP": 14,
+    "FN": 20,
+    "TP": 49
+  },
+  "tipus_score": "probabilitat estimada, no calibrada explícitament",
+  "sha256_dades": "4a437fde05fe5264e1701a7387ac6fb75393772ba38bb2c9c566405af5af4bd7",
+  "versions": {
+    "python": "3.13.3",
+    "numpy": "2.2.1",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2"
+  }
+}
